@@ -1,0 +1,26 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/wbstartup",
+    "prod_uri": "mysql://root:@localhost/wbstartup",
+    "fb_url": "https://www.facebook.com/profile.php?id=100004141725909",
+    "tw_url": "https://twitter.com/anuj_one8",
+    "gh_url": "https://github.com/websitestartup",
+    "blog_name": "Website Startup",
+    "tagline": "A blog for new Programmer",
+    "gmail-user": "panuj2218@gmail.com",
+    "gmail-password": "@nujPatel2218",
+    "about_text": "Hey welcome to the page. My name is Anuj Patel and I am learning web development",
+    "no_of_posts": 2,
+    "login_image":"logo.svg",
+    "admin_user":"anujp",
+    "admin_password":"181818anuj",
+    "upload_location":"C:\\Users\\panuj\\PycharmProjects\\Flask\\static\\assets\\img"
+  }
+
+
+
+
+
+}
