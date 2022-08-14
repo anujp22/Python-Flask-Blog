@@ -11,12 +11,12 @@
     "tagline": "A blog for new Programmer",
     "gmail-user": "your gmail",
     "gmail-password": "your password",
-    "about_text": "Hey welcome to the page. My name is Anuj Patel and I am learning web development",
+    "about_text": "your short intro text",
     "no_of_posts": 2,
     "login_image":"logo.svg",
     "admin_user":"youradminuser",
     "admin_password":"youradminpassword",
-    "upload_location":"C:\\Users\\panuj\\PycharmProjects\\Flask\\static\\assets\\img"
+    "upload_location":""
   }
 
 
