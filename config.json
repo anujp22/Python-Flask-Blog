@@ -2,8 +2,8 @@
   "params":
   {
     "local_server": "True",
-    "local_uri": "mysql://root:@localhost/wbstartup",
-    "prod_uri": "mysql://root:@localhost/wbstartup",
+    "local_uri": "mysql://root:@localhost/databasename",
+    "prod_uri": "mysql://root:@localhost/databasename",
     "fb_url": "",
     "tw_url": "",
     "gh_url": "",
